@@ -1,7 +1,0 @@
-
-public class TreeNode {
-    TreeNode left;
-    TreeNode right;
-	public Integer val;
-
-}
